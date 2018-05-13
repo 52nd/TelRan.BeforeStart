@@ -1,5 +1,12 @@
-# InteliJ files
+# Folders
 .idea/
+target/
+.settings/
+.vscode/
+
+# Files
+.classpath
+.project
 
 # Compiled class file
 *.class
